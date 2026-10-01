@@ -1,0 +1,6 @@
+{
+  "name": "HyperClick - Ultra Fast Auto Clicker & Key Spammer",
+  "description": "Ultra-fast auto clicker for any mouse button and keyboard key with customizable trigger hotkeys, precise millisecond intervals, humanizer jitter, live CPS sandbox, and exportable native scripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
